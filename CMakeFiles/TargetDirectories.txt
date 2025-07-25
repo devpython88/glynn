@@ -1,0 +1,4 @@
+/c/Users/Sadik/Documents/c++ projects/Glynn/build/CMakeFiles/glynn.dir
+/c/Users/Sadik/Documents/c++ projects/Glynn/build/CMakeFiles/test.dir
+/c/Users/Sadik/Documents/c++ projects/Glynn/build/CMakeFiles/edit_cache.dir
+/c/Users/Sadik/Documents/c++ projects/Glynn/build/CMakeFiles/rebuild_cache.dir
